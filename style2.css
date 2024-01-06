@@ -1,0 +1,46 @@
+/* the benifits of making utility class that you can reuse those class */
+h1{
+    font-style: italic;
+    color: #001C30;
+    /* background-color:aquamarine; */
+    margin: 23px;
+    margin: 23px;
+}
+
+.center{
+    text-align: center;
+}
+.bg-red{
+    /* background-color: red; */
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+
+}
+.itemsCenter{
+    align-items: center;
+}
+.button{
+    padding: 20px;
+    margin: 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor:pointer
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    margin: 0;
+    /* padding: 0; */
+    padding: 13px 40px;
+    border: 2px solid black;
+    border-radius: 9px;
+    font-size: 17px;
+}
